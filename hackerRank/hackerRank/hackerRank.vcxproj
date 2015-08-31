@@ -119,6 +119,7 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="bigNumCompare.cpp" />
+    <ClCompile Include="count-fridays-13th.cpp" />
     <ClCompile Include="find-median.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />

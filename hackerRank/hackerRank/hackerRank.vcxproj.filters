@@ -21,5 +21,8 @@
     <ClCompile Include="find-median.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="count-fridays-13th.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
